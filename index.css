@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: sans serif, Verdana, Cursed Timer ULiL;
+    background-color: darkblue;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+
+.scoretext{
+    margin-top: -100PX;
+    background: black;
+    display: flex;
+    justify-content: space-around;
+    color: #F94F6D;
+    font-size: 90px;
+    font-family: Cursed Timer ULiL;
+}
+
+.buttonhome {
+    padding: 30px 3px;
+    background-color: transparent;
+    margin-top: -100px;
+    display: flex;
+    justify-content: space-around;   
+}
+
+#btnhome{
+    border: 1px solid #9AABD8;
+    border-radius: 3px;
+    padding: 10px 13px;
+    background-color: transparent;
+    color: #9AABD8;
+}
+#btnaway{
+    border: 1px solid #9AABD8;
+    border-radius: 3px;
+    padding: 10px 13px;
+    background-color: transparent;
+    color: #9AABD8;
+}
